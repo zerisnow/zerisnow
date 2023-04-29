@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zerisnow
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and Business Intelligence
-- 💞️ I’m looking to collaborate on Business Intelligence and Finance
+- 💞️ I’m looking to collaborate on BI and AI
 - 📫 How to reach me filipe.rfonceca@gmail.com
 
 <!---
