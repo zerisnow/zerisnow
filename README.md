@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zerisnow (Filipe Fonceca)
 - 👀 I’m interested in Data Science
 - 🌱 I’m Data Analyst and Data Scientist
-- 💞️ I’m looking to collaborate on BI and AI
+- 💞️ I’m looking to collaborate on BI, AI and Finance
 - 📫 How to reach me filipe.rfonceca@gmail.com
 
 <!---
